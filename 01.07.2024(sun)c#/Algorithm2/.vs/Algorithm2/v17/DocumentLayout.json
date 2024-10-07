@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\01.07.2024(sun)c#\\Algorithm2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{614FC649-A580-40D3-BAC2-C07ED9142A59}|Algorithm2\\Algorithm2.csproj|x:\\01.07.2024(sun)c#\\algorithm2\\algorithm2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{614FC649-A580-40D3-BAC2-C07ED9142A59}|Algorithm2\\Algorithm2.csproj|solutionrelative:algorithm2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B7E4A63-1E8E-4C2B-B9F9-DD929161EBB2}|ConsoleApp1\\ConsoleApp1.csproj|X:\\01.07.2024(sun)c#\\Algorithm2\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B7E4A63-1E8E-4C2B-B9F9-DD929161EBB2}|ConsoleApp1\\ConsoleApp1.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "X:\\01.07.2024(sun)c#\\Algorithm2\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "X:\\01.07.2024(sun)c#\\Algorithm2\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwBoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T05:32:17.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "X:\\01.07.2024(sun)c#\\Algorithm2\\Algorithm2\\Product.cs",
+              "RelativeDocumentMoniker": "Algorithm2\\Product.cs",
+              "ToolTip": "X:\\01.07.2024(sun)c#\\Algorithm2\\Algorithm2\\Product.cs",
+              "RelativeToolTip": "Algorithm2\\Product.cs",
+              "ViewState": "AQIAAJEAAAAAAAAAAAAkwKUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T06:34:20.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

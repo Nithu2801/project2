@@ -1,0 +1,7 @@
+X:\01.07.2024(sun)c#\Algorithm2\Algorithm2\obj\Debug\Algorithm2.csproj.AssemblyReference.cache
+X:\01.07.2024(sun)c#\Algorithm2\Algorithm2\obj\Debug\Algorithm2.csproj.CoreCompileInputs.cache
+X:\01.07.2024(sun)c#\Algorithm2\Algorithm2\bin\Debug\Algorithm2.exe.config
+X:\01.07.2024(sun)c#\Algorithm2\Algorithm2\bin\Debug\Algorithm2.exe
+X:\01.07.2024(sun)c#\Algorithm2\Algorithm2\bin\Debug\Algorithm2.pdb
+X:\01.07.2024(sun)c#\Algorithm2\Algorithm2\obj\Debug\Algorithm2.exe
+X:\01.07.2024(sun)c#\Algorithm2\Algorithm2\obj\Debug\Algorithm2.pdb
